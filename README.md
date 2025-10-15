@@ -1,4 +1,4 @@
-# NVIDIA Improved Perlin Noise for Unity
+<img width="964" height="540" alt="image" src="https://github.com/user-attachments/assets/c62cb6cd-d261-4231-ac07-1f31dce552a6" /># NVIDIA Improved Perlin Noise for Unity
 
 Improved Perlin Noise implementation for Unity using gradient and permutation LUT textures.  
 Source inspired by [GPU Gems 2, Chapter 26](https://developer.nvidia.com/gpugems/gpugems2/part-iii-high-quality-rendering/chapter-26-implementing-improved-perlin-noise).
@@ -6,6 +6,7 @@ Source inspired by [GPU Gems 2, Chapter 26](https://developer.nvidia.com/gpugems
 ---
 
 ## Overview
+<img width="964" height="540" alt="image" src="https://github.com/user-attachments/assets/ff1bca60-70df-4eba-a468-e75ecf0a8bc4" />
 
 This package provides Perlin Noise generation for Unity projects.  
 It supports multiple noise types and can be used in PBR, raymarching, and procedural shader setups.
